@@ -104,7 +104,7 @@ const Graduate: React.FC<GraduateProps> = ({
                 </div>
 
 
-                <div className="flex justify-end w-full gap-2 absolute right-1 mt-4 ">
+                <div className="flex justify-center lg:justify-end w-full gap-2 absolute right-1 mt-4   ">
                     <button
                         onClick={handlePrev}
                         className="w-14 h-14 flex items-center justify-center text-white rounded-full text-2xl hover:scale-110 transition"

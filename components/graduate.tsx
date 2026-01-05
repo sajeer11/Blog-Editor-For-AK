@@ -49,7 +49,7 @@ const Graduate: React.FC<GraduateProps> = ({
     return (
         <div className="flex flex-col items-center justify-center w-full ">
 
-            <div className="relative w-full max-w-[1200px] overflow-hidden lg:h-200 md:h-200 h-350">
+            <div className="relative w-full max-w-7xl overflow-hidden  h-350">
 
                 <div
                     className="flex transition-transform duration-500 ease-in-out"
